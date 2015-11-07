@@ -22,6 +22,7 @@
 		B709810F1BEE28D600355FC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B70981121BEE28D600355FC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B70981141BEE28D600355FC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B709811A1BEE2D6000355FC8 /* FunctionExercise.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FunctionExercise.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		B70980FC1BEE28D600355FC8 = {
 			isa = PBXGroup;
 			children = (
+				B709811A1BEE2D6000355FC8 /* FunctionExercise.playground */,
 				B70981071BEE28D600355FC8 /* Lecture22-Exercise-Function */,
 				B70981061BEE28D600355FC8 /* Products */,
 			);
